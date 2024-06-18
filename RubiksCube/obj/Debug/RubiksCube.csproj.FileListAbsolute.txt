@@ -1,0 +1,14 @@
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\bin\Debug\RubiksCube.exe.config
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\bin\Debug\RubiksCube.exe
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\bin\Debug\RubiksCube.pdb
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\bin\Debug\OpenTK.dll
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\bin\Debug\OpenTK.GLControl.dll
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\bin\Debug\OpenTK.pdb
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\bin\Debug\OpenTK.xml
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\bin\Debug\OpenTK.GLControl.xml
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\obj\Debug\RubiksCube.csprojAssemblyReference.cache
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\obj\Debug\RubiksCube.csproj.CoreCompileInputs.cache
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\obj\Debug\RubiksCube.csproj.CopyComplete
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\obj\Debug\RubiksCube.exe
+C:\Users\hobbit\Downloads\RubiksCube\RubiksCube\obj\Debug\RubiksCube.pdb
